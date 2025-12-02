@@ -1,0 +1,5 @@
+{
+  "name": "financial tracker",
+  "description": "A smart mobile-first financial management system with AI-powered reporting, expense tracking, and budget alerts.",
+  "requestFramePermissions": []
+}
